@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1ee9f28cdcb302f4ea80ca2279b05aae
+timeCreated: 1488285926
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Lilly
+  fontNames:
+  - Lilly
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
